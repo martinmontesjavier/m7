@@ -1,0 +1,130 @@
+2024-03-07 15:49:41	DEBUG	Texto a registrar
+2024-03-07 15:49:43	INFO	Se ha creado una función set
+2024-03-07 15:49:43	INFO	Se ha creado una función set
+2024-03-07 15:49:43	INFO	Se ha creado una función set
+2024-03-07 15:49:43	INFO	Se ha creado una función get
+2024-03-07 15:49:43	INFO	Se ha creado una función get
+2024-03-07 15:49:45	DEBUG	Se ha INSERTADO el usuario con id 47
+2024-03-07 15:49:45	INFO	Se ha creado una función get
+2024-03-07 15:49:45	WARNING	Se ha marcado para borrar un usuario 
+2024-03-07 15:49:46	CRITICAL	Se ha BORRADO el usuario con id: 47
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha INSERTADO el usuario con id 48
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha INSERTADO el usuario con id 49
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha INSERTADO el usuario con id 50
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha ACTUALIZADO el usuario con id 23
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha ACTUALIZADO el usuario con id 24
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	INFO	Se ha creado una función set
+2024-03-07 15:49:46	DEBUG	Se ha ACTUALIZADO el usuario con id 25
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	INFO	Se ha creado una función get
+2024-03-07 15:49:46	WARNING	Se ha marcado para borrar un usuario 
+2024-03-07 15:49:46	CRITICAL	Se ha BORRADO el usuario con id: 23
+2024-03-07 15:49:46	WARNING	Se ha marcado para borrar un usuario 
+2024-03-07 15:49:46	CRITICAL	Se ha BORRADO el usuario con id: 24
+2024-03-07 15:49:46	WARNING	Se ha marcado para borrar un usuario 
+2024-03-07 15:49:46	CRITICAL	Se ha BORRADO el usuario con id: 25
